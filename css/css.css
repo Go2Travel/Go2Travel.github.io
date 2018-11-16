@@ -52,24 +52,6 @@ background-color: #5E4485;
 padding: 2%;
 color: #FFF;
 }
-.fa 
-{
-padding: 20px;
-font-size: 30 px;
-color: #FFF;
-}
-.fa:hover
-{
-text-decoration: none;
-}
-@media (max-width: 720px)
-{
-.fa {
-	font-size:20px;
-	padding: 10px;
-}
-}
-
 @media (max-width: 720px) 
 {
 .carousel-caption
