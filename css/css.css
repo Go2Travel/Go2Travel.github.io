@@ -51,9 +51,6 @@ width:100;
 background-color: #5E4485;
 padding: 2%;
 color: #FFF;
-position: relative;
-margin-top: -100px;
-clear: both;
 }
 @media (max-width: 720px) 
 {
