@@ -59,7 +59,13 @@ margin-top: 100px;
 {
 display: none;
 }
-#grcka,grcka1,grcka2{
+#grcka{
+max-width: 150px;
+}
+#grcka1{
+max-width: 150px;
+}
+#grcka2{
 max-width: 150px;
 }
 h4{
