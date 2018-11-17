@@ -62,18 +62,13 @@ display: none;
 #grcka{
 max-width: 150px;
 }
-#grcka1{
-max-width: 150px;
-}
-#grcka2{
-max-width: 150px;
-}
 h4{
 font-size: 1.5em;
 }
 h2
 {
 font-size:30px;
+align: center;
 }
 }
 .container
