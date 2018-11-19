@@ -69,7 +69,6 @@ font-size: 1.5em;
 h2
 {
 font-size:30px;
-align: center;
 }
 }
 .container
@@ -100,8 +99,4 @@ display: none;
 	background: #fff;
 	padding-top: 60px;
 	padding-bottom: 60px;
-}
-#myCarousel
-{
-align: center;
 }
