@@ -8,6 +8,7 @@
 	font-size: 1.2em;
 	border: 0;
 	font-family: cursive;
+	margin-bottom: 0;
 }
 .navbar-brand 
 {
@@ -31,7 +32,7 @@ top: 50%;
 transform: translateY(-20%);
 text-transform: uppercase;
 font-family: Dekko;
-font-style: oblique 20deg;	
+font-style: italic;	
 }
 .nopad
 {
@@ -47,7 +48,7 @@ border: 2px solid #FFF;
 }
 footer 
 {
-width:100;
+width:100%;
 background-color: #5E4485;
 padding: 2%;
 color: #FFF;
